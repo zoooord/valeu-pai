@@ -1,0 +1,52 @@
+
+.container {
+    display: flex;
+
+    max-width: 700px;
+    max-height: 90rem;
+    justify-content: center;
+    margin-top: 15rem;
+    
+}
+.container img {
+    height: 3rem;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+    margin-right: 2rem;
+}
+.container, p{
+    font-family: Poppins;
+}
+
+
+img {
+    height: 6rem;
+    justify-content: center;
+}
+
+.congragulations {
+    padding: 0rem;
+
+    display: flex;
+    justify-content: center;
+    font: 700 1.6rem Archivo;
+    text-align: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+legend {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Poppins;
+    margin-top: 10rem;
+    font-size: 2rem;
+}
